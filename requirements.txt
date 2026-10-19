@@ -1,0 +1,6 @@
+flask
+playwright
+pandas
+openpyxl
+requests
+beautifulsoup4
